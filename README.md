@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./public/images/readme-banner.png" alt="MianMart Banner" width="100%" />
+  <img src="./public/images/MIAN\MART\BANNER.jfif" alt="MianMart Banner" width="100%" />
 
   # 🛒 MianMart
   **A modern, fast, and responsive online grocery & supermarket storefront built with Next.js and TypeScript.**
